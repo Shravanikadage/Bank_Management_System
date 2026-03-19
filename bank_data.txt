@@ -1,0 +1,33 @@
+
+-----------------------------------------------------
+                 ACCOUNT INFORMATION                  
+-----------------------------------------------------
+
+Account No     : 101
+Account Name   : Ruchi Shirole
+Balance        : 40500
+Type           : Saving
+ROI            : 3%
+-----------------------------------------------------
+
+Account No     : 102
+Account Name   : Yash Patil
+Balance        : 70000
+Type           : Current
+ROI            : 5%
+-----------------------------------------------------
+
+Account No     : 103
+Account Name   : Mahi Rege
+Balance        : 58000
+Type           : Current
+ROI            : 5%
+-----------------------------------------------------
+
+Account No     : 104
+Account Name   : Amit Varma
+Balance        : 105000
+Type           : Saving
+ROI            : 3%
+-----------------------------------------------------
+
